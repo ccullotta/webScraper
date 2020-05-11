@@ -1,0 +1,13 @@
+Date: Sun, 10 May 2020 13:41:50 GMT
+Content-Type: text/plain; charset=utf-8
+Set-Cookie: __cfduid=dc2bac8eca7d36670aaebacd28f5d7b541589118110; expires=Tue, 09-Jun-20 13:41:50 GMT; path=/; domain=.cryptoglobe.com; HttpOnly; SameSite=Lax; Secure
+Set-Cookie: django_language=en-gb; expires=Mon, 10-May-2021 13:41:50 GMT; Max-Age=31536000; Path=/
+Vary: Accept-Language, Cookie, Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Content-Language: en-gb
+Cf-Cache-Status: BYPASS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 5914147c6b32ea1c-IAD
+Content-Encoding: gzip
+Cf-Request-Id: 02a06b21be0000ea1ce38f4200000001

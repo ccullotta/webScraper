@@ -1,0 +1,18 @@
+Date: Sun, 10 May 2020 13:42:00 GMT
+Content-Type: text/plain
+Set-Cookie: __cfduid=d290c8ed59752980144ff7aefa71fe44b1589118120; expires=Tue, 09-Jun-20 13:42:00 GMT; path=/; domain=.ccn.com; HttpOnly; SameSite=Lax
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Last-Modified: Sat, 09 May 2020 16:12:00 GMT
+Etag: W/"5eb6d650-2d9"
+Cache-Control: public, max-age=1800
+Content-Encoding: gzip
+Cf-Cache-Status: HIT
+Age: 70
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 591414bb2f990357-ORD
+Alt-Svc: h3-27=":443"; ma=86400, h3-25=":443"; ma=86400, h3-24=":443"; ma=86400, h3-23=":443"; ma=86400
+Cf-Request-Id: 02a06b48f500000357421a8200000001

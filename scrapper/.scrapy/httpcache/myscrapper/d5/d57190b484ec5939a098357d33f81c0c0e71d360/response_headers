@@ -1,0 +1,17 @@
+Cache-Control: public, max-age=3600,public
+Expires: Sat, 09 May 2020 01:20:40 GMT
+Content-Type: text/plain; charset=UTF-8
+Last-Modified: Thu, 07 May 2020 18:40:27 GMT
+Etag: "8e-5eb4561b-0;;;"
+Accept-Ranges: bytes
+Date: Sat, 09 May 2020 00:20:40 GMT
+Server: WPX CLOUD/MIA01
+Vary: Accept-Encoding
+Referrer-Policy: 
+Pragma: public
+Alt-Svc: quic=":443"; ma=2592000; v="43,46", h3-Q043=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-25=":443"; ma=2592000, h3-27=":443"; ma=2592000
+X-Turbo-Charged-By: LiteSpeed
+Age: 134470
+Warning: 113 ApacheTrafficServer/7.1.5
+X-Cache: HIT
+X-Edge-Location: WPX CLOUD/MIA01

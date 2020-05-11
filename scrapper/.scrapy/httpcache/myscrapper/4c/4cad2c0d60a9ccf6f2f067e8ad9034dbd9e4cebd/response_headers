@@ -1,0 +1,17 @@
+Date: Sun, 10 May 2020 13:41:59 GMT
+Content-Type: text/plain
+Set-Cookie: __cfduid=dcaf6ec2b3b4df46ff540314622c551351589118119; expires=Tue, 09-Jun-20 13:41:59 GMT; path=/; domain=.coinspeaker.com; HttpOnly; SameSite=Lax; Secure
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=600
+Expires: Sun, 10 May 2020 13:42:50 GMT
+Alt-Svc: h3-27=":443"; ma=86400, h3-25=":443"; ma=86400, h3-24=":443"; ma=86400, h3-23=":443"; ma=86400
+Host-Header: 5d77dd967d63c3104bced1db0cace49c
+X-Proxy-Cache: MISS
+Cf-Cache-Status: HIT
+Age: 549
+Accept-Ranges: bytes
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 591414b86c0a741d-IAD
+Cf-Request-Id: 02a06b47450000741dc300c200000001

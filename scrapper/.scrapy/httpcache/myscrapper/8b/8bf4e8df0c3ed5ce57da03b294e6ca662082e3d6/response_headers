@@ -1,0 +1,19 @@
+Date: Sun, 10 May 2020 14:05:58 GMT
+Content-Type: text/html; charset=utf-8
+X-Powered-By: Next.js
+Content-Language: en-US
+Access-Control-Allow-Origin: *
+Cache-Control: public,max-age=300,s-maxage=300
+Vary: Accept-Encoding
+X-Varnish: 35032572
+Age: 157
+Via: 1.1 varnish (Varnish/6.4)
+X-Cache: MISS
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Cf-Cache-Status: HIT
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 591437d96a64cf4c-IAD
+Content-Encoding: gzip
+Cf-Request-Id: 02a0813bdf0000cf4c71a3a200000001

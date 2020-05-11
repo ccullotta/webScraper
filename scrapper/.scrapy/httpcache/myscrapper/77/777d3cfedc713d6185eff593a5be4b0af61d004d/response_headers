@@ -1,0 +1,20 @@
+Date: Sun, 10 May 2020 13:41:48 GMT
+Content-Type: text/plain; charset=utf-8
+Set-Cookie: __cfduid=d9789d42b3c47948d6b49faef9139a0421589118108; expires=Tue, 09-Jun-20 13:41:48 GMT; path=/; domain=.cryptopolitan.com; HttpOnly; SameSite=Lax; Secure
+Cf-Ray: 591414740db97419-IAD
+Age: 759
+Link: <https://www.cryptopolitan.com/wp-json/>; rel="https://api.w.org/"
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Vary: Accept-Encoding
+Cf-Cache-Status: HIT
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Html-Edge-Cache: cache,bypass-cookies=wp-|wordpress|comment_|woocommerce_
+X-Html-Edge-Cache-Status: Hit
+X-Html-Edge-Cache-Version: 11428
+X-Xss-Protection: 1
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3-27=":443"; ma=86400, h3-25=":443"; ma=86400, h3-24=":443"; ma=86400, h3-23=":443"; ma=86400
+Cf-Request-Id: 02a06b1c870000741916bc2200000001

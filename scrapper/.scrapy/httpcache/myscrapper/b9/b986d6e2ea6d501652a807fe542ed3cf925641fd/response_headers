@@ -1,0 +1,14 @@
+Server: nginx
+Date: Sun, 10 May 2020 13:41:59 GMT
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=86400
+Vary: Accept-Encoding
+Vary: Cookie
+Last-Modified: Sun, 10 May 2020 13:39:24 GMT
+Cache-Control: max-age=145, must-revalidate
+X-Nananana: Batcache
+Host-Header: WordPress.com
+Link: <https://dailyhodl.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://wp.me/p9krhj-pdQ>; rel=shortlink
+Content-Encoding: gzip
+X-Ac: 3.ord _atomic_dca

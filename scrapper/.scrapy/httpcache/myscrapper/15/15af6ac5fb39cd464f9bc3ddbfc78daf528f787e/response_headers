@@ -1,0 +1,13 @@
+Allow: GET, POST, HEAD, PUT, PATCH, DELETE, OPTIONS
+Content-Encoding: gzip
+Content-Type: text/html
+Accept-Ranges: bytes
+Accept-Ranges: bytes
+Accept-Ranges: bytes
+Accept-Ranges: bytes
+Date: Sun, 10 May 2020 13:41:55 GMT
+X-Served-By: cache-sea4445-SEA, cache-mdw17347-MDW
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1589118115.248964,VS0,VE52
+Vary: User-Agent, Accept-Encoding

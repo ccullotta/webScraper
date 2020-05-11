@@ -1,0 +1,16 @@
+Server: Sucuri/Cloudproxy
+Date: Sun, 10 May 2020 14:05:50 GMT
+Content-Type: text/html; charset=UTF-8
+X-Sucuri-Id: 20013
+Host-Header: e172abecbd394f56a1a2479517f27fbfe05ff815
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Content-Security-Policy: upgrade-insecure-requests;
+Link: <https://zycrypto.com/wp-json/>; rel="https://api.w.org/", <https://zycrypto.com/?p=41652>; rel=shortlink
+Vary: X-Forwarded-Proto,Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=0
+Expires: Sun, 10 May 2020 14:05:50 GMT
+X-Sucuri-Cache: EXPIRED

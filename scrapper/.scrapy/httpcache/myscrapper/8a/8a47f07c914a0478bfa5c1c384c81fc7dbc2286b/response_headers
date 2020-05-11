@@ -1,0 +1,9 @@
+Date: Sun, 10 May 2020 14:05:36 GMT
+Server: Apache/2
+X-Powered-By: PHP/7.3.6
+Cache-Control: no-cache, private
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IjExNTNvNTVUSFQzTTI5eEN5TjdZcEE9PSIsInZhbHVlIjoiQ25KU1ZcL0NFVkxLWHhuQXhCY2p0NGM3a3VYTEx4YmJFcGE4ZTdJeDNKdjNuQXoyc0U1c2ltNGlRZmloekx6eTMiLCJtYWMiOiI1ZjliN2UxMDEzM2JkMWI2NDJmZTBiZDZhYzgwMjdiMjY1Yjc0NDY0NDYyNTcxNWJmNWVkMGEzY2FjOTk0ZTM3In0%3D; expires=Sun, 10-May-2020 16:06:07 GMT; Max-Age=7200; path=/
+Set-Cookie: laravel_session=eyJpdiI6Imp3UVwvZ2VpMFR6RGN3NEpIeGp1UldRPT0iLCJ2YWx1ZSI6Inl3K1NUZTN2VnZnS29kVVh1YUZ2QzR6QkRIWXNMUmFDVkhHbFoyMUdjbjZ0ekVFblBNdHM2VGZLU3F5Y1REUjUiLCJtYWMiOiIyN2I0NjMwZjY5NGIzZDY2NmJjNTJmOTE2NTYwYTk5NGE4N2JlNjM2M2MzOGVmNWIyMTc1NGMzOGViZDM1MjllIn0%3D; expires=Sun, 10-May-2020 16:06:07 GMT; Max-Age=7200; path=/; httponly
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8

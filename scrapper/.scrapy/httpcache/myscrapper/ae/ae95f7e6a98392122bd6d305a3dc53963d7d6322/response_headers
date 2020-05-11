@@ -1,0 +1,15 @@
+Date: Sun, 10 May 2020 14:06:11 GMT
+Content-Type: text/html; charset=UTF-8
+Cf-Ray: 5914382608850983-IAD
+Last-Modified: Sun, 10 May 2020 12:56:21 GMT
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Content-Type-Options: nosniff
+X-Html-Edge-Cache-Status: Miss, Cached
+X-Html-Edge-Cache-Version: 11429
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3-27=":443"; ma=86400, h3-25=":443"; ma=86400, h3-24=":443"; ma=86400, h3-23=":443"; ma=86400
+Cf-Request-Id: 02a0816bc20000098335af1200000001

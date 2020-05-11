@@ -1,0 +1,21 @@
+Date: Sun, 10 May 2020 13:41:49 GMT
+Content-Type: text/plain; charset=UTF-8
+Set-Cookie: __cfduid=d69a8cbc4c5d0e02ac46224af74c523ce1589118109; expires=Tue, 09-Jun-20 13:41:49 GMT; path=/; domain=.cointelegraph.com; HttpOnly; SameSite=Lax; Secure
+Set-Cookie: cointelegraph_com_session=eyJpdiI6IlJBakNIVnAwSjExOG5qeTVTTmx5TkE9PSIsInZhbHVlIjoieXFTczhWXC8yVHdnK3hWM2l1amtXaTczWnQ4WmpJMFB0bFpxTkVCallmZUdwWFR3MWF4b29yZGxvdzJPZ3paTjciLCJtYWMiOiJlYWE0ZDZkY2IwOTMwMjViYjJiMjNiOTQ5NzUxZDUzNmE2NTc0NGMwZDI5ZTNhNDNkNWU5NDRmNWQzNjBiYzI5In0%3D; path=/; domain=.cointelegraph.com; httponly
+Set-Cookie: auth=no; expires=Fri, 09-May-2025 13:41:49 GMT; Max-Age=157680000; path=/; domain=.cointelegraph.com; httponly
+Set-Cookie: __cflb=04dToRAziuwaqathfEW16szphGwofdnFyp7HUfYGT5; SameSite=None; Secure; path=/; expires=Sun, 10-May-20 14:41:49 GMT; HttpOnly
+X-Powered-By: PHP/7.3.11
+X-Authorized: 1
+X-Time: -
+X-Cache-Status: BYPASS
+X-Node: ds28
+X-Host: cointelegraph.com
+X-Real-Ip: 73.73.253.69
+X-Region: rs
+Cf-Cache-Status: BYPASS
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 59141477d990f242-ORD
+Content-Encoding: gzip
+Cf-Request-Id: 02a06b1eea0000f2424c3cd200000001

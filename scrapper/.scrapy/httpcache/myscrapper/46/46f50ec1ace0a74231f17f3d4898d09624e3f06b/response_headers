@@ -1,0 +1,22 @@
+Date: Sun, 10 May 2020 13:41:49 GMT
+Content-Type: text/plain; charset=UTF-8
+Set-Cookie: __cfduid=d335d08b55704db9c880144966f12ae881589118109; expires=Tue, 09-Jun-20 13:41:49 GMT; path=/; domain=.decrypt.co; HttpOnly; SameSite=Lax; Secure
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=0
+Cf-Bgj: h2pri
+Content-Language: en-US
+Etag: W/"79-17087eac920"
+Last-Modified: Thu, 27 Feb 2020 18:31:16 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+Via: 1.1 varnish (Varnish/6.4)
+X-Cache: MISS
+X-Powered-By: Express
+X-Varnish: 8344683
+Cf-Cache-Status: REVALIDATED
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 591414772d90748e-IAD
+Content-Encoding: gzip
+Cf-Request-Id: 02a06b1e770000748e09a4a200000001

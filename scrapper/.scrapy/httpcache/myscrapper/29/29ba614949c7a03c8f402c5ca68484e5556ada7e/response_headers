@@ -1,0 +1,23 @@
+Date: Sun, 10 May 2020 13:41:48 GMT
+Content-Type: text/plain; charset=utf-8
+Set-Cookie: __cfduid=d5def022086a3a0aba1115e76d8906a7c1589118108; expires=Tue, 09-Jun-20 13:41:48 GMT; path=/; domain=.theblockcrypto.com; HttpOnly; SameSite=Lax; Secure
+Cache-Control: public, max-age=300
+Link: <https://www.theblockcrypto.com/wp-json/>; rel="https://api.w.org/"
+Strict-Transport-Security: max-age=31622400
+X-Memberful-Protected: 0
+X-Pantheon-Styx-Hostname: styx-fe3-b-c8f8fbbbb-kqqbj
+X-Robots-Tag: noindex, follow
+X-Styx-Req-Id: fa061c04-92c3-11ea-ac17-ce54a8e2d533
+X-Served-By: cache-mdw17344-MDW, cache-bwi5081-BWI
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1589118100.901953,VS0,VE291
+Vary: Accept-Encoding
+Age: 8
+Via: 1.1 varnish
+Cf-Cache-Status: HIT
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 59141470fe9e00c5-IAD
+Content-Encoding: gzip
+Cf-Request-Id: 02a06b1a99000000c5640cd200000001

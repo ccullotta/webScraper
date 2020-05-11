@@ -1,0 +1,7 @@
+Sitemap: https://ethereumworldnews.com/sitemap_index.xml
+User-agent: *
+Disallow:
+
+User-agent: Mediapartners-Google
+Disallow:
+Allow: /*
